@@ -9,6 +9,7 @@ User has requested the following requirements:
 * From Prize break down extract `Prize Per UK Winner`.
 * The types of cumulative summaries produced in `./Master Results.xlsx`. e.g. Breakdown per-player which allows user
 to determine how much a participant in their syndicate has earned.
+* Results to be stored and aggregated in 4 week intervals.
 * A GUI.
 
 ## Project Structure
